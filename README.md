@@ -8,6 +8,7 @@ https://jw-resort.vercel.app/dashboard
 - **Framework**: React.js
 - **State Management**: Redux, ContextApi
 - **Routing**: React Router
+- **Charts**: recharts
 - **UI Icons**: react-icons
 - **Form Management**: react-hook-form
 - **Toast Notifications**: react-hot-toast
