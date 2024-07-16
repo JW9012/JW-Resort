@@ -1,6 +1,7 @@
 # JW's Resort - web app
 https://jw-resort.vercel.app
 
+![image](https://github.com/user-attachments/assets/b4c8772e-4349-4381-9a32-6c415e930be6)
 
 # Tech Stack for Hotel Management Application
 
