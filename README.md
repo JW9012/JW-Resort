@@ -1,5 +1,5 @@
 # JW's Resort - web app
-https://jw-resort.vercel.app/dashboard
+https://jw-resort.vercel.app
 
 
 # Tech Stack for Hotel Management Application
